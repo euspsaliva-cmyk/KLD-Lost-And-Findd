@@ -1,0 +1,9 @@
+{
+  "name": "kld-lost-found",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KLD Lost and Found website with a local Node.js backend and JSON database",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
