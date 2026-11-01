@@ -1,0 +1,23 @@
+KLD LOST & FOUND WEBSITE - START HERE
+
+WHAT YOU NEED
+- Windows 10/11
+- Node.js 18 or newer installed (nodejs.org). No npm install is needed.
+
+HOW TO START
+1. Extract this ZIP to a normal folder, such as Desktop\KLD_Lost_Found_Complete.
+2. Double-click START_WEBSITE.bat.
+3. Wait until the window says: KLD Lost & Found is running at http://localhost:3000
+4. Open Chrome and visit http://localhost:3000 (use http, not https).
+5. Keep the black window open while using the website. Close it to stop the local server.
+
+ADMIN LOGIN (demo/local project)
+Email: admin@kld.local
+Password: ChangeMe_Admin123!
+
+IMPORTANT SECURITY NOTES
+- Change the demo admin password before using this for real. The starter admin account is created automatically on first run; the sample project does not provide a password-change page.
+- This is a local development project, not an internet-hosted production service. The JSON database is saved in data\db.json.
+- Do not put real sensitive personal information into a demo project. Back up data\db.json before moving or replacing the folder.
+- User sign-up cannot create an admin account. Admin role is assigned only to the pre-seeded account in this starter.
+- The server uses only built-in Node.js modules. There is no npm install step.
